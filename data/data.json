@@ -12,14 +12,14 @@
             "years":"2018-2023"
         },
         {
-            "education":"Life Choices Coding Academy",
-            "image":"https://mrshane06.github.io/vue-portfolio-images/logos/Life%20Choices%20logo.png",
-            "years":"2023-now"
-        },
-        {
             "education":"Leaders Quest",
             "image":"https://mrshane06.github.io/vue-portfolio-images/logos/leaders%20quest.png",
             "years":"2022-2023"
+        },
+        {
+            "education":"Life Choices Coding Academy",
+            "image":"https://mrshane06.github.io/vue-portfolio-images/logos/Life%20Choices%20logo.png",
+            "years":"2023-now"
         }
     ],
     "experiences":[
