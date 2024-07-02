@@ -1,26 +1,25 @@
 {
     "about":[
         {
-            "about":"My name is Keegan Niekerk , an 18 year old aspiring developer.I enjoy gaming , anime , hiking and finding new interesting things to learn about.From a young age , I was always fascinated by the new and cool  changes in technology.I may not be very experienced and skill at the moment , but I am dedicated and always willing to learn more and up-skilling myself.",
+            "about":"My name is Keegan Niekerk , an 18 year old aspiring developer.I enjoy gaming , anime , hiking and finding new interesting things to learn about. From a young age , I was always fascinated by the new and cool  changes in technology. I may not be very experienced and skill at the moment , but I am dedicated and always willing to learn more and up-skilling myself.",
             "me":"https://mrshane06.github.io/vue-portfolio-images/images/me_img.jpg"
         }
     ],
     "education":[
         {
             "education":"Modderdam highschool",
-            "years":"2018-2023",
-            "certificate":"Bachelors degree",
-            "image":"https://mrshane06.github.io/vue-portfolio-images/logos/Modderdam%20high.jpg"
+            "image":"https://mrshane06.github.io/vue-portfolio-images/logos/Modderdam%20high.jpg",
+            "years":"2018-2023"
         },
         {
             "education":"Life Choices Coding Academy",
-            "years":"2023-now",
-            "image":"https://mrshane06.github.io/vue-portfolio-images/logos/Life%20Choices%20logo.png"
+            "image":"https://mrshane06.github.io/vue-portfolio-images/logos/Life%20Choices%20logo.png",
+            "years":"2023-now"
         },
         {
             "education":"Leaders Quest",
-            "years":"2022-2023",
-            "image":"https://mrshane06.github.io/vue-portfolio-images/logos/leaders%20quest.png"
+            "image":"https://mrshane06.github.io/vue-portfolio-images/logos/leaders%20quest.png",
+            "years":"2022-2023"
         }
     ],
     "experiences":[
@@ -28,119 +27,119 @@
     ],
     "skills":[
         {
+            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/html.jpg",
             "skill":"HTML",
-            "level":"Advanced",
-            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/html.jpg"
+            "level":"Advanced"
         },
         {
+            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/css.png",
             "skill":"CSS",
-            "level":"Adept",
-            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/css.png"
+            "level":"Adept"
         },
         {
+            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/JavaScript%20logo.png",
             "skill":"JavaScript",
-            "level":"Intermediate",
-            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/JavaScript%20logo.png"
+            "level":"Intermediate"
         },
         {
+            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/vue%20logo.png",
             "skill":"Vue",
-            "level":"Intermediate",
-            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/vue%20logo.png"
+            "level":"Intermediate"
         },
         {
+            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/images.png",
             "skill":"Computer literacy",
-            "level":"I know my way around a computer. ",
-            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/images.png"
+            "level":"I know my way around a computer. "
         },
         {
+            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/reliability.jpg",
             "skill":"Reliability",
-            "level":"I am always going to be there when asked.",
-            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/reliability.jpg"
+            "level":"I am always going to be there when asked."
         },
         {
+            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/Adaptability.png",
             "skill":"Adaptability",
-            "level":"Able to adapt and learn to new things",
-            "img":""
+            "level":"Able to adapt and learn to new things"
         },
         {
+            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/Attention%20to%20detail.png",
             "skill":"Attention to detail",
-            "level":"Ability to pay close attention to small changes.",
-            "img":""
+            "level":"Ability to pay close attention to small changes."
         }
     ],
     "testimonials":[
             {
+                "person_img":"https://mrshane06.github.io/vue-portfolio-images/images/OT.jpg",
                 "name":"Oyintanda Zongwana",
-                "testimony":"",
-                "person_img":""
+                "testimony":"Working with Keegan has been an absolute pleasure! Their dedication, and creativity have exceeded all expectations. They consistently deliver results and are a true asset to any team. I highly recommend Keegan for their outstanding skills and professionalism."
             },
             {
+                "person_img":"",
                 "name":"Marcus Adonis",
-                "testimony":"",
-                "person_img":""
+                "testimony":"Keegan is a hardworking person with good ideas that help solve problems and make meaningful impact. He enjoys helping others the best he can and does well as a team player"
             },
             {
+                "person_img":"",
                 "name":"Chandre Leigh Davids",
-                "testimony":"",
-                "person_img":""
+                "testimony":"Keegan is one of the most creative, and most innovative people I know, He never backs down from a challenge and is for sure someone you'd be more than pleased with on your team in terms of his problem solving skills."
             },
             {
+                "person_img":"",
                 "name":" Gwiba Mabandla",
-                "testimony":"",
-                "person_img":""
+                "testimony":"Keegan is very calm and collective towards his work and will try to look for the most effective solution to a problem he has and always gets the job done."
             },
             {
+                "person_img":"",
                 "name":"Chloe Almazien",
-                "testimony":"",
-                "person_img":""
+                "testimony":"The Keegan have come to know is a diligent young man who takes pride in his work, always driven to improve his skill set as well as his mentality. Among many other things he is welcoming and noble to a tea ,never passing by anyone in need of assistance."
             },
             {
+                "person_img":"",
                 "name":"Matthew Brown",
-                "testimony":"",
-                "person_img":""
+                "testimony":""
             }
         ],
     "projects":[
         {
+            "proj_img":"",
             "proj_name":"Previous Portfolio",
             "description":"My original portfolio , made only with CSS , Bootstrap and HTML.",
-            "proj_img":"",
             "github":"",
             "live":""
 
         },
         {
+            "proj_img":"",
             "proj_name":"Hulu Remake",
             "description":"My attempt at remaking the hulu website.",
-            "proj_img":"",
             "github":"",
             "live":""
         },
         {
+            "proj_img":"",
             "proj_name":"Basic Temperature converter",
             "description":"A very basic temperature converter made with JavaScript.",
-            "proj_img":"",
             "github":"",
             "live":""
         },
         {
+            "proj_img":"",
             "proj_name":"Basic RGB to HEX converter",
-            "description":"",
-            "proj_img":"",
+            "description":"A very simple application that converts RBG values into HEX values.",
             "github":"",
             "live":""
         },
         {
+            "proj_img":"",
             "proj_name":"Calculator",
             "description":"A fully functioning calculator made with JavaScript.",
-            "proj_img":"",
             "github":"",
             "live":""
         },
         {
+            "proj_img":"",
             "proj_name":"Age To Days",
             "description":"A website that converts your current age to the exact amount of days",
-            "proj_img":"",
             "github":"",
             "live":""
         }
