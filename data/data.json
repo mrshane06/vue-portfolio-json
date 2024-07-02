@@ -1,0 +1,148 @@
+{
+    "about":[
+        {
+            "about":"My name is Keegan Niekerk , an 18 year old aspiring developer.I enjoy gaming , anime , hiking and finding new interesting things to learn about.From a young age , I was always fascinated by the new and cool  changes in technology.I may not be very experienced and skill at the moment , but I am dedicated and always willing to learn more and up-skilling myself.",
+            "me":"https://mrshane06.github.io/vue-portfolio-images/images/me_img.jpg"
+        }
+    ],
+    "education":[
+        {
+            "education":"Modderdam highschool",
+            "years":"2018-2023",
+            "certificate":"Bachelors degree",
+            "image":"https://mrshane06.github.io/vue-portfolio-images/logos/Modderdam%20high.jpg"
+        },
+        {
+            "education":"Life Choices Coding Academy",
+            "years":"2023-now",
+            "image":"https://mrshane06.github.io/vue-portfolio-images/logos/Life%20Choices%20logo.png"
+        },
+        {
+            "education":"Leaders Quest",
+            "years":"2022-2023",
+            "image":"https://mrshane06.github.io/vue-portfolio-images/logos/leaders%20quest.png"
+        }
+    ],
+    "experiences":[
+
+    ],
+    "skills":[
+        {
+            "skill":"HTML",
+            "level":"Advanced",
+            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/html.jpg"
+        },
+        {
+            "skill":"CSS",
+            "level":"Adept",
+            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/css.png"
+        },
+        {
+            "skill":"JavaScript",
+            "level":"Intermediate",
+            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/JavaScript%20logo.png"
+        },
+        {
+            "skill":"Vue",
+            "level":"Intermediate",
+            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/vue%20logo.png"
+        },
+        {
+            "skill":"Computer literacy",
+            "level":"I know my way around a computer. ",
+            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/images.png"
+        },
+        {
+            "skill":"Reliability",
+            "level":"I am always going to be there when asked.",
+            "img":"https://mrshane06.github.io/vue-portfolio-images/logos/reliability.jpg"
+        },
+        {
+            "skill":"Adaptability",
+            "level":"Able to adapt and learn to new things",
+            "img":""
+        },
+        {
+            "skill":"Attention to detail",
+            "level":"Ability to pay close attention to small changes.",
+            "img":""
+        }
+    ],
+    "testimonials":[
+            {
+                "name":"Oyintanda Zongwana",
+                "testimony":"",
+                "person_img":""
+            },
+            {
+                "name":"Marcus Adonis",
+                "testimony":"",
+                "person_img":""
+            },
+            {
+                "name":"Chandre Leigh Davids",
+                "testimony":"",
+                "person_img":""
+            },
+            {
+                "name":" Gwiba Mabandla",
+                "testimony":"",
+                "person_img":""
+            },
+            {
+                "name":"Chloe Almazien",
+                "testimony":"",
+                "person_img":""
+            },
+            {
+                "name":"Matthew Brown",
+                "testimony":"",
+                "person_img":""
+            }
+        ],
+    "projects":[
+        {
+            "proj_name":"Previous Portfolio",
+            "description":"My original portfolio , made only with CSS , Bootstrap and HTML.",
+            "proj_img":"",
+            "github":"",
+            "live":""
+
+        },
+        {
+            "proj_name":"Hulu Remake",
+            "description":"My attempt at remaking the hulu website.",
+            "proj_img":"",
+            "github":"",
+            "live":""
+        },
+        {
+            "proj_name":"Basic Temperature converter",
+            "description":"A very basic temperature converter made with JavaScript.",
+            "proj_img":"",
+            "github":"",
+            "live":""
+        },
+        {
+            "proj_name":"Basic RGB to HEX converter",
+            "description":"",
+            "proj_img":"",
+            "github":"",
+            "live":""
+        },
+        {
+            "proj_name":"Calculator",
+            "description":"A fully functioning calculator made with JavaScript.",
+            "proj_img":"",
+            "github":"",
+            "live":""
+        },
+        {
+            "proj_name":"Age To Days",
+            "description":"A website that converts your current age to the exact amount of days",
+            "proj_img":"",
+            "github":"",
+            "live":""
+        }
+    ]
+}
