@@ -101,7 +101,7 @@
         ],
     "projects":[
         {
-            "proj_img":"",
+            "proj_img":"https://mrshane06.github.io/vue-portfolio-images/logos/portfolio1.png",
             "proj_name":"Previous Portfolio",
             "description":"My original portfolio , made only with CSS , Bootstrap and HTML.",
             "github":"https://github.com/mrshane06/1st-portfolio",
