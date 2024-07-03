@@ -74,22 +74,22 @@
                 "testimony":"Working with Keegan has been an absolute pleasure! Their dedication, and creativity have exceeded all expectations. They consistently deliver results and are a true asset to any team. I highly recommend Keegan for their outstanding skills and professionalism."
             },
             {
-                "person_img":"",
+                "person_img":"https://mrshane06.github.io/vue-portfolio-images/images/Marcus.jpg",
                 "name":"Marcus Adonis",
                 "testimony":"Keegan is a hardworking person with good ideas that help solve problems and make meaningful impact. He enjoys helping others the best he can and does well as a team player"
             },
             {
-                "person_img":"",
+                "person_img":"https://mrshane06.github.io/vue-portfolio-images/images/Chandre.jpg",
                 "name":"Chandre Leigh Davids",
                 "testimony":"Keegan is one of the most creative, and most innovative people I know, He never backs down from a challenge and is for sure someone you'd be more than pleased with on your team in terms of his problem solving skills."
             },
             {
-                "person_img":"",
+                "person_img":"https://c0dingforfun.github.io/portfolioimg/Images/Me/Me.png",
                 "name":" Gwiba Mabandla",
                 "testimony":"Keegan is very calm and collective towards his work and will try to look for the most effective solution to a problem he has and always gets the job done."
             },
             {
-                "person_img":"",
+                "person_img":"https://mrshane06.github.io/vue-portfolio-images/images/Chloe.jpg",
                 "name":"Chloe Almazien",
                 "testimony":"The Keegan have come to know is a diligent young man who takes pride in his work, always driven to improve his skill set as well as his mentality. Among many other things he is welcoming and noble to a tea ,never passing by anyone in need of assistance."
             },
@@ -104,44 +104,44 @@
             "proj_img":"",
             "proj_name":"Previous Portfolio",
             "description":"My original portfolio , made only with CSS , Bootstrap and HTML.",
-            "github":"",
-            "live":""
+            "github":"https://github.com/mrshane06/1st-portfolio",
+            "live":"https://1st-portfolio-c9hc-25f5kmvv9-mrshane06s-projects.vercel.app/"
 
         },
         {
-            "proj_img":"",
+            "proj_img":"https://mrshane06.github.io/vue-portfolio-images/logos/hulu.png",
             "proj_name":"Hulu Remake",
             "description":"My attempt at remaking the hulu website.",
-            "github":"",
-            "live":""
+            "github":"https://github.com/mrshane06/hulu",
+            "live":"https://hulu-h3ovucx8p-mrshane06s-projects.vercel.app/"
         },
         {
-            "proj_img":"",
-            "proj_name":"Basic Temperature converter",
-            "description":"A very basic temperature converter made with JavaScript.",
-            "github":"",
-            "live":""
-        },
-        {
-            "proj_img":"",
+            "proj_img":"https://mrshane06.github.io/vue-portfolio-images/logos/RGB-HEX.png",
             "proj_name":"Basic RGB to HEX converter",
             "description":"A very simple application that converts RBG values into HEX values.",
-            "github":"",
-            "live":""
+            "github":"https://github.com/mrshane06/RGBToHex",
+            "live":"https://rgb-to-inm5mr6uf-mrshane06s-projects.vercel.app/"
         },
         {
-            "proj_img":"",
+            "proj_img":"https://mrshane06.github.io/vue-portfolio-images/logos/JavaS_calc.png",
             "proj_name":"Calculator",
             "description":"A fully functioning calculator made with JavaScript.",
-            "github":"",
-            "live":""
+            "github":"https://github.com/mrshane06/JavaScript-Calc",
+            "live":"https://java-script-calc-r04a7u49v-mrshane06s-projects.vercel.app/"
         },
         {
-            "proj_img":"",
+            "proj_img":"https://mrshane06.github.io/vue-portfolio-images/logos/Age%20to%20Days.png",
             "proj_name":"Age To Days",
             "description":"A website that converts your current age to the exact amount of days",
-            "github":"",
-            "live":""
+            "github":"https://github.com/mrshane06/AgeToDays",
+            "live":"https://age-to-days-qbf1nttlk-mrshane06s-projects.vercel.app/"
+        },
+        {
+            "proj_img":"https://mrshane06.github.io/vue-portfolio-images/logos/SWEGGA.png",
+            "proj_name":"SWEGGA",
+            "description":"A practice e-commerce project made with JavaScript",
+            "github":"https://github.com/mrshane06/SWEGGA",
+            "live":"https://swegga-dpbvk5cxs-mrshane06s-projects.vercel.app/"
         }
     ]
 }
