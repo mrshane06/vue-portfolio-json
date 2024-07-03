@@ -101,44 +101,44 @@
         ],
     "projects":[
         {
-            "project-image":"https://mrshane06.github.io/vue-portfolio-images/logos/portfolio1.png",
-            "project-name":"Previous Portfolio",
+            "Pimage":"https://mrshane06.github.io/vue-portfolio-images/logos/portfolio1.png",
+            "Pname":"Previous Portfolio",
             "description":"My original portfolio , made only with CSS , Bootstrap and HTML.",
             "github":"https://github.com/mrshane06/1st-portfolio",
             "live":"https://1st-portfolio-c9hc-25f5kmvv9-mrshane06s-projects.vercel.app/"
 
         },
         {
-            "project-image":"https://mrshane06.github.io/vue-portfolio-images/logos/hulu.png",
-            "project-name":"Hulu Remake",
+            "Pimage":"https://mrshane06.github.io/vue-portfolio-images/logos/hulu.png",
+            "Pname":"Hulu Remake",
             "description":"My attempt at remaking the hulu website.",
             "github":"https://github.com/mrshane06/hulu",
             "live":"https://hulu-h3ovucx8p-mrshane06s-projects.vercel.app/"
         },
         {
-            "project-image":"https://mrshane06.github.io/vue-portfolio-images/logos/RGB-HEX.png",
-            "project-name":"Basic RGB to HEX converter",
+            "Pimage":"https://mrshane06.github.io/vue-portfolio-images/logos/RGB-HEX.png",
+            "Pname":"Basic RGB to HEX converter",
             "description":"A very simple application that converts RBG values into HEX values.",
             "github":"https://github.com/mrshane06/RGBToHex",
             "live":"https://rgb-to-inm5mr6uf-mrshane06s-projects.vercel.app/"
         },
         {
-            "project-image":"https://mrshane06.github.io/vue-portfolio-images/logos/JavaS_calc.png",
-            "project-name":"Calculator",
+            "Pimage":"https://mrshane06.github.io/vue-portfolio-images/logos/JavaS_calc.png",
+            "Pname":"Calculator",
             "description":"A fully functioning calculator made with JavaScript.",
             "github":"https://github.com/mrshane06/JavaScript-Calc",
             "live":"https://java-script-calc-r04a7u49v-mrshane06s-projects.vercel.app/"
         },
         {
-            "project-image":"https://mrshane06.github.io/vue-portfolio-images/logos/Age%20to%20Days.png",
-            "project-name":"Age To Days",
+            "Pimage":"https://mrshane06.github.io/vue-portfolio-images/logos/Age%20to%20Days.png",
+            "Pname":"Age To Days",
             "description":"A website that converts your current age to the exact amount of days",
             "github":"https://github.com/mrshane06/AgeToDays",
             "live":"https://age-to-days-qbf1nttlk-mrshane06s-projects.vercel.app/"
         },
         {
-            "project-image":"https://mrshane06.github.io/vue-portfolio-images/logos/SWEGGA.png",
-            "project-name":"SWEGGA",
+            "Pimage":"https://mrshane06.github.io/vue-portfolio-images/logos/SWEGGA.png",
+            "Pname":"SWEGGA",
             "description":"A practice e-commerce project made with JavaScript",
             "github":"https://github.com/mrshane06/SWEGGA",
             "live":"https://swegga-dpbvk5cxs-mrshane06s-projects.vercel.app/"
